@@ -1,0 +1,1 @@
+This folder will centralise all notes used for my training for the azure data science exam.
